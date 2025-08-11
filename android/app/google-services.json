@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545162718299",
+    "project_id": "shoppingapp-810fe",
+    "storage_bucket": "shoppingapp-810fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545162718299:android:2ceb1f2050463b0ebda37e",
+        "android_client_info": {
+          "package_name": "com.snow.app.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KjL241vuu9HFEeJzcXQiiU5O6CM8UUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
