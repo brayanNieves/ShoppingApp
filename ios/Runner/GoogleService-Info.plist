@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA96PC86kEZjZ_PKpR3JDvv3n22NdqCtKo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545162718299</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.snow.app.shoppingapp</string>
+	<key>PROJECT_ID</key>
+	<string>shoppingapp-810fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoppingapp-810fe.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545162718299:ios:e757e77c2d931ac5bda37e</string>
+</dict>
+</plist>
