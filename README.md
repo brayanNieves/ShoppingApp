@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Product Page](assets/product-page.png)
 ![Product Page](assets/product-detail-page.png)
 ![Product Page](assets/cart-page.png)
-
+![Video](assets/video.mov)
